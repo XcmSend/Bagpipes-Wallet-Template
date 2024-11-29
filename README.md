@@ -36,8 +36,11 @@ We'll use Vite to set up a fast and lightweight React project.
 
 
 ```bash
+
+// Npm
 npm create vite@latest bagpipes-wallet-template -- --template react
 
+// or Yarn
 yarn create vite bagpipes-wallet-template --template react
 ```
 
@@ -63,8 +66,11 @@ git init
 First, install the basic dependencies:
 
 ```bash
+
+// Npm
 npm install
 
+// or Yarn
 yarn
 ```
 
@@ -72,8 +78,10 @@ yarn
 ### 2. Install `@bagpipes/wallet` and Other Necessary Packages
 
 ```bash
+// npm
 npm install @bagpipes/wallet antd @polkadot/util-crypto react-router-dom
 
+// or Yarn
 yarn add @bagpipes/wallet antd @polkadot/util-crypto react-router-dom
 ```
 
