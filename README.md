@@ -1,10 +1,12 @@
-# Frontend DApp Template
+# Polkadot Frontend DApp Template
 
 ## Bagpipes Wallet "Hello World"
 
 ### Creating a React Vite Template with `@bagpipes/wallet` installed
 
 Welcome to the "Hello World" DApp using `@bagpipes/wallet`. In this tutorial, we'll build a React application using Vite and integrate the Bagpipes Wallet for seamless wallet functionalities. Users can easily fork this template and start building their applications with wallet functionalities already set up.
+
+Run with Replit [here](https://replit.com/@decentration/Bagpipes-Wallet-Template)
 
 ## Table of Contents
 
