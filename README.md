@@ -5,7 +5,7 @@ Clone the repo
 git clone https://github.com/XcmSend/Bagpipes-Wallet-Template/
 ```
 
-Enter the directory"
+Enter the directory
 ```
 cd Bagpipes-Wallet-Template
 ```
