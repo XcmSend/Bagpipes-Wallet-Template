@@ -28,7 +28,7 @@ npm run dev
 yarn dev
 ```
 
-# Tutorial
+# Full Breakdown of Template
 
 ## Bagpipes Wallet "Hello World"
 
