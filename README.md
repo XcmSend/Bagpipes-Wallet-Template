@@ -1,5 +1,35 @@
 # Polkadot Frontend DApp Template
 
+Clone the repo
+```
+git clone https://github.com/XcmSend/Bagpipes-Wallet-Template/
+```
+
+Enter the directory"
+```
+cd Bagpipes-Wallet-Template
+```
+
+Install:
+```
+// npm 
+npm install
+
+// yarn 
+yarn
+```
+
+Run Local Server:
+```
+//npm
+npm run dev
+
+// yarn
+yarn dev
+```
+
+# Tutorial
+
 ## Bagpipes Wallet "Hello World"
 
 ### Creating a React Vite Template with `@bagpipes/wallet` installed
